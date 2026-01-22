@@ -55,6 +55,11 @@ Spotify-Free-Version/
 🌐 Live Demo
 Click here to try it live
 
+## 🎯 Project Purpose
+
+This project is made for learning frontend development and understanding how a music streaming app like Spotify works.
+It helps beginners practice JavaScript, UI design, and API integration.
+
 🙌 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
