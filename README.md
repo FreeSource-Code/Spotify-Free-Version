@@ -1,6 +1,7 @@
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Status](https://img.shields.io/badge/Status-Active-success)
 # 🎵 Spotify-Free-Version
 
 A simplified, free version of Spotify built for learning and fun. Stream music, manage playlists, and enjoy a clean UI inspired by the original Spotify.
