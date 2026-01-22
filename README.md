@@ -77,6 +77,14 @@ It helps beginners practice JavaScript, UI design, and API integration.
 
 🙌 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## 🚧 Future Improvements
+
+- User authentication with Firebase
+- Real Spotify API integration
+- Lyrics support
+- Download option
+- Queue system
+- Recommendation system
 
 📄 License
 This project is licensed under the MIT License.
