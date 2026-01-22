@@ -77,6 +77,14 @@ It helps beginners practice JavaScript, UI design, and API integration.
 
 🙌 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## 📚 What I Learned
+
+- HTML5 Audio API
+- DOM manipulation in JavaScript
+- Responsive UI design
+- Playlist logic
+- Basic app architecture
+
 ## 🚧 Future Improvements
 
 - User authentication with Firebase
