@@ -60,6 +60,14 @@ Click here to try it live
 This project is made for learning frontend development and understanding how a music streaming app like Spotify works.
 It helps beginners practice JavaScript, UI design, and API integration.
 
+## ⚙️ How It Works
+
+1. User opens the app
+2. Selects or searches a song
+3. Music plays using HTML5 Audio
+4. User can pause, like, or add to playlist
+5. UI updates dynamically using JavaScript
+
 🙌 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
