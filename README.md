@@ -60,6 +60,13 @@ Click here to try it live
 This project is made for learning frontend development and understanding how a music streaming app like Spotify works.
 It helps beginners practice JavaScript, UI design, and API integration.
 
+## ⚠️ Limitations
+
+- This is NOT an official Spotify app
+- Only free / demo music is used
+- No premium or copyrighted streaming
+- Made only for educational purposes
+
 ## ⚙️ How It Works
 
 1. User opens the app
